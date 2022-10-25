@@ -1,6 +1,6 @@
 
 
-## Hellooooo! I'm just a higher tech student learning as much as I can and enjoying his biggest hobby, programming 😋. >.>
+## Hellooooo! I'm just a higher tech student learning as much as I can and enjoying his biggest hobby, programming 😋. >
 
 ##### My GitHub to-do list(Some day..some day 😅)
 0) I supossed I have to star by learning the basis of GitHub lmao :joy:.
@@ -18,7 +18,7 @@
 
 Thanks to Captain Chicky for the ideas 4 my profile-
 
-WOW![Visitor counter](http://profile-counter.glitch.me/CaptainChicky/count.svg) visits my profile.
+lol![Visitor counter](http://profile-counter.glitch.me/CaptainChicky/count.svg) visits my profile.
 
 <!--
 #### Stats and others 🤗!
