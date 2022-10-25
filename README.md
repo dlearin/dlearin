@@ -18,8 +18,6 @@
 
 Thanks to Captain Chicky for the ideas 4 my profile-
 
-lol![Visitor counter](http://profile-counter.glitch.me/CaptainChicky/count.svg) visits my profile.
-
 <!--
 #### Stats and others 🤗!
 <details>
