@@ -1,6 +1,6 @@
 
 
-## Hellooooo! I'm just a higher tech student learning as much as I can and enjoying his biggest hobby, programming 😋. >
+## Hellooooo! I'm just a higher tech student learning as much as I can, while enjoying my biggest hobby, programming 😋.
 
 ##### My GitHub to-do list(Some day..some day 😅)
 0) I supossed I have to star by learning the basis of GitHub lmao :joy:.
