@@ -15,7 +15,7 @@
 - ⚡ Fun/random fact: Do u know that the name for “rain smell” is “petrichor”? :D
 - 📫 How to reach me: linkedin, github mainly, not so fan of social medias 😅
 
-##Everyone like stats so.. u have some on the down side 😋
+##### Everyone like stats so.. u have some on the down side 😋
 
 <details>
   <summary>Here are my GitHub stats!</summary>
