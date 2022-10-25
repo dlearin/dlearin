@@ -15,6 +15,13 @@
 - ⚡ Fun/random fact: Do u know that the name for “rain smell” is “petrichor”? :D
 - 📫 How to reach me: linkedin, github mainly, not so fan of social medias 😅
 
+<details>
+  <summary>Here are my GitHub stats!</summary>
+
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dlearin&theme=blueberry&show_icons=true)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlearin&theme=blueberry&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+</details>
+
 
 Thanks to Captain Chicky for the ideas 4 my profile-
 
