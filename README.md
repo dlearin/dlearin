@@ -29,7 +29,6 @@
 /
 /
 /
-Thanks to Captain Chicky for the ideas 4 my profile-
 
 <!--
 #### Stats and others 🤗!
