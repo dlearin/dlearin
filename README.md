@@ -4,7 +4,7 @@
 
 ##### My GitHub to-do list(Some day..some day 😅)
 0) I should start by learning the basis of GitHub lmao :joy:.
-1) Improve my userpage-theme, right using the 0.0.0.0.0.0.1 Alpha Beta :neckbeard:.
+1) Improve my userpage-theme, right using the 0.0.0.0.0.0.1 Alpha :neckbeard:.
 2) Created a guestbook like the one on c4cs.tripod.com & CaptainChicky.
 3) Ordenate, structure, make-it-beatiful all my repos. 
 
