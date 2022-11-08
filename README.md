@@ -3,7 +3,7 @@
 ## Hellooooo! I'm just a higher tech student learning as much as I can, while enjoying my biggest hobby, programming 😋.
 
 ##### My GitHub to-do list(Some day..some day 😅)
-0) I supossed I have to star by learning the basis of GitHub lmao :joy:.
+0) I should start by learning the basis of GitHub lmao :joy:.
 1) Improve my userpage-theme, right using the 0.0.0.0.0.0.1 Alpha Beta :neckbeard:.
 2) Created a guestbook like the one on c4cs.tripod.com & CaptainChicky.
 3) Ordenate, structure, make-it-beatiful all my repos. 
